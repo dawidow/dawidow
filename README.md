@@ -3,14 +3,14 @@
 I am a junior full stack developer from Bielsko-Biała in Poland. Initially working with front-end technologies and gaining a few clients I noticed that backend is an equally important element in creating advanced websites so I decided to learn it. Apart from programming I also have experience in computer graphics (over 10 years). As for my interests, my passion is road cycling.
 
 ### The technologies I use
--- GIT
--- HTML
--- CSS3 *(SCSS, Tailwind, BEM)*
--- JavaScript *(EcmaScript 2015+, jQuery, VueJS)*
--- VueJS *(Vuex, VueRouter, Gridsome, Nuxt)*
--- NodeJS *(ExpressJS, MongoDB)*
--- PHP7
--- Laravel
+-- GIT <br>
+-- HTML <br>
+-- CSS3 *(SCSS, Tailwind, BEM)* <br>
+-- JavaScript *(EcmaScript 2015+, jQuery, VueJS)* <br>
+-- VueJS *(Vuex, VueRouter, Gridsome, Nuxt)* <br>
+-- NodeJS *(ExpressJS, MongoDB)* <br>
+-- PHP7 <br>
+-- Laravel <br>
 
 and... Bootstrap, Bulma, jQuery, Webpack, Gulp, Jade (pug), Composer, NPM, Yarn
 
