@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Dawid! 👋🏻
 
-<!--
-**dawidow/dawidow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior full stack developer from Bielsko-Biała in Poland. Initially working with front-end technologies and gaining a few clients I noticed that backend is an equally important element in creating advanced websites so I decided to learn it. Apart from programming I also have experience in computer graphics (over 10 years). As for my interests, my passion is road cycling.
 
-Here are some ideas to get you started:
+### The technologies I use
+-- GIT
+-- HTML
+-- CSS3 *(SCSS, Tailwind, BEM)*
+-- JavaScript *(EcmaScript 2015+, jQuery, VueJS)*
+-- VueJS *(Vuex, VueRouter, Gridsome, Nuxt)*
+-- NodeJS *(ExpressJS, MongoDB)*
+-- PHP7
+-- Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and... Bootstrap, Bulma, jQuery, Webpack, Gulp, Jade (pug), Composer, NPM, Yarn
+
+### You can find me at
+-- [My website](https://dowczarz.pl)
+-- [GitHub](https://github.com/dawidow)
+-- [LinkedIn](https://www.linkedin.com/in/dawid-owczarz/)
+-- [Twitter](https://twitter.com/dawidow_it)
+
+### Don't forget to check my repositories 🙌🏻
