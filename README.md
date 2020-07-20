@@ -15,9 +15,9 @@ I am a junior full stack developer from Bielsko-Biała in Poland. Initially work
 and... Bootstrap, Bulma, jQuery, Webpack, Gulp, Jade (pug), Composer, NPM, Yarn
 
 ### You can find me at
--- [My website](https://dowczarz.pl)
--- [GitHub](https://github.com/dawidow)
--- [LinkedIn](https://www.linkedin.com/in/dawid-owczarz/)
+-- [My website](https://dowczarz.pl) <br>
+-- [GitHub](https://github.com/dawidow) <br>
+-- [LinkedIn](https://www.linkedin.com/in/dawid-owczarz/) <br>
 -- [Twitter](https://twitter.com/dawidow_it)
 
 ### Don't forget to check my repositories 🙌🏻
