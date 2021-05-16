@@ -9,10 +9,9 @@ I am a junior full stack developer from Bielsko-Biała in Poland. Initially work
 -- JavaScript *(EcmaScript 2015+, jQuery, VueJS)* <br>
 -- VueJS *(Vuex, VueRouter, Gridsome, Nuxt)* <br>
 -- NodeJS *(ExpressJS, MongoDB)* <br>
--- PHP7 <br>
--- Laravel <br>
+-- AdonisJS <br>
 
-and... Bootstrap, Bulma, jQuery, Webpack, Gulp, Jade (pug), Composer, NPM, Yarn
+and... Bootstrap, Bulma, jQuery, Webpack, Gulp, Jade (pug), Composer, NPM, Yarn, PHP7, Laravel
 
 ### You can find me at
 -- [My website](https://dowczarz.pl) <br>
